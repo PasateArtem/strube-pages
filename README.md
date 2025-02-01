@@ -1,1 +1,1 @@
-# strube-pages
+# stribe-pages
